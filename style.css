@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 20px;
+    background-color: pink;
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 100px;
+}
+
+nav h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    font-size: 35px;
+    color: rgb(236, 142, 173);
+    -webkit-text-stroke: 0.1px rgb(194, 65, 151);
+}
+
+nav {
+    height: 100px;
+    width: 100%;
+    background-image: url(cute\ nav.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* nav img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+} */
+
+.sticker {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+input[type="checkbox"] {
+     accent-color: deeppink;
+     margin-right: 8px;
+}
+
+input:checked {
+    text-decoration: line-through;
+    color: rgb(192, 43, 93);
+}
