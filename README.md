@@ -1,66 +1,65 @@
 # 📒 My Journal Project
 
-## Deskripsi
+## Description
 
-Proyek ini adalah jurnal harian digital sederhana yang dibuat menggunakan **HTML** dan **CSS**. Dirancang dengan tampilan lucu dan feminin, jurnal ini mencerminkan perjalanan pribadi dalam membentuk kebiasaan baik, belajar hal baru, dan mengevaluasi diri secara reflektif. Tujuan dari proyek ini adalah untuk membantu membangun konsistensi dan disiplin melalui catatan harian yang menyenangkan dan mudah digunakan.
-
----
-
-## 📁 Struktur File
-
-- index.html # Halaman utama jurnal harian
-- style.css # File CSS untuk gaya visual
-- cute nav.jpg # Gambar background untuk navigasi/header
-- cute sticker.png # Stiker lucu di bagian konten
-
+This project is a simple digital daily journal built using **HTML** and **CSS**. Designed with a cute and feminine aesthetic, this journal reflects personal journeys in building good habits, learning new things, and reflective self-evaluation. The project aims to help build consistency and discipline through a fun and easy-to-use daily journal.
 
 ---
 
-## 🎨 Fitur dan Desain
+## 📁 File Structure
 
-- 🌸 **Tema warna pink dengan elemen visual lucu**
-- ✅ **To-do List** harian dengan checkbox interaktif
-- 🧠 **Insight of the Day** untuk catatan refleksi
-- 🎯 **Target Harian dan Target Besok**
-- 🧩 **Trackers** untuk memantau kegiatan penting setiap hari
-- 🖍️ **Font Quicksand** untuk tampilan ringan dan friendly
-- 🖼️ Gambar stiker dan header yang memperindah tampilan
-- 💡 Layout statis yang sederhana namun fungsional
+- index.html # Main journal page
+- style.css # CSS file for visual styling
+- cute nav.jpg # Background image for navigation/header
+- cute sticker.png # Cute sticker in content section
 
 ---
 
-## 💻 Cara Menggunakan
+## 🎨 Features and Design
 
-1. **Download** atau **salin semua file** ke dalam satu folder.
-2. **Buka file `index.html`** di browser (cukup klik dua kali).
-3. **Centang to-do list dan tracker** sesuai aktivitasmu setiap hari.
-4. **Baca insight dan refleksi** untuk motivasi harian.
-5. **Edit isi jurnal** sesuai kebutuhanmu lewat teks editor seperti VS Code atau Notepad++.
+- 🌸 **Pink color theme with cute visual elements**
+- ✅ **Interactive daily To-Do List** with checkboxes
+- 🧠 **Insight of the Day** for daily reflections
+- 🎯 **Today's Goals and Tomorrow's Targets**
+- 🧩 **Trackers** to monitor important daily activities
+- 🖍️ **Quicksand font** for a light and friendly look
+- 🖼️ Decorative stickers and header images
+- 💡 Simple static layout that remains functional
 
 ---
 
-## 🖼️ Preview Tampilan
+## 💻 How to Use
+
+1. **Download** or **copy all files** into one folder
+2. **Open the `index.html` file** in your browser (just double-click)
+3. **Check off to-do list and trackers** according to your daily activities
+4. **Read insights and reflections** for daily motivation
+5. **Edit journal content** as needed using text editors like VS Code or Notepad++
+
+---
+
+## 🖼️ Preview
 
 ### Header
-![Header](cute%20nav.jpg)
+![Header](./assets/img/cute%20nav.jpg)
 
-### Stiker
-![Sticker](cute%20sticker.png)
-
----
-
-## 🚧 Catatan Tambahan
-
-- Pastikan semua file berada dalam satu folder yang sama agar gambar tampil dengan benar.
-- Gambar-gambar seperti `cute nav.jpg` dan `cute sticker.png` digunakan sebagai background dan ikon visual, jadi jangan ubah nama file atau pindahkan sembarangan.
-- Proyek ini bisa dikembangkan lebih lanjut menjadi jurnal interaktif dengan JavaScript untuk menyimpan progress atau membuat tampilan dinamis.
+### Sticker
+![Sticker](./assets/img/cute%20sticker.png)
 
 ---
 
-## ✨ Penulis
+## 🚧 Additional Notes
 
-Proyek ini dibuat sebagai bagian dari latihan belajar web development dasar. Harapannya, jurnal ini tidak hanya membantu dalam praktik teknis HTML & CSS, tapi juga mendorong pembiasaan hidup yang lebih positif dan produktif.
+- Ensure all files remain in the same folder for proper image display
+- Images like `cute nav.jpg` and `cute sticker.png` are used as backgrounds and visual elements - don't rename or move them
+- This project could be enhanced with JavaScript to make it interactive (save progress, dynamic views, etc.)
 
 ---
 
-> “Kedisiplinan bukan tentang motivasi, tapi tentang niat yang diulang-ulang.” — Jurnal Hari Ini
+## ✨ Author
+
+This project was created as part of basic web development learning practice. The hope is that this journal not only helps with HTML & CSS technical practice but also encourages more positive and productive living habits.
+
+---
+
+> "Discipline isn't about motivation, but about repeated intention." — Today's Journal
